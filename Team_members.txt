@@ -4,7 +4,7 @@ Member 1
 Name: Samyak Pagariya
 Roll: 19ESKIT084
 Branch: IT-B (G2)
-Role: Cloud Support(AWS,GCP),Documentation
+Role: Cloud Engineer(AWS,GCP),Documentation
 
 ********
 
@@ -12,4 +12,4 @@ Member 2
 Name: Shreyansh Jain
 Roll: 19ESKIT088
 Branch: IT-B (G2)
-Role: Hardware engineer (Ardunio, ESP32) 
+Role: IoT/System Engineer (Ardunio, ESP32) 
